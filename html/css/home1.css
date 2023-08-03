@@ -1,0 +1,40 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    height: 100%;
+    margin-left: 400px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.head1{
+    background-color: #4B5162;
+    height: 120px;
+    width: 100%;
+    text-align: center;
+    
+    padding-top: 30px;
+    font-size: 80px;
+}
+
+.semester{
+    padding: 40px;
+}
+
+table, th, td {
+    border: 6px solid;
+    width: 650px;
+  }
+
+
+.button{
+    position: relative;
+    background-color: red; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 90%;
+}
